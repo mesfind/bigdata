@@ -22,8 +22,8 @@ You can run these notebooks with Docker. The following command starts a containe
 server listening for HTTP connections on port 8888 and 4040 without authentication configured.
 
 ```
-git clone https://github.com/pnavaro/big-data.git
-docker run --rm -v $PWD/big-data:/home/jovyan/ -p 8888:8888 -p 4040:4040 pnavaro/big-data
+git clone https://github.com/mesfind/bigdata.git
+docker run --rm -v $PWD/bigdata:/home/admin/ -p 8888:8888 -p 4040:4040 mesfind/bigdata
 ```
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
