@@ -1,14 +1,14 @@
 # Parallel Computing with Python
 
-Notebooks for [Master for Smart Data Science ENSAI Rennes](https://ensai.fr/en/2-cursus/msc-statistics-for-smart-data/)
+Notebooks for [Master for BigData]()
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/pnavaro/big-data/master)
-[![JupyterBook](https://github.com/pnavaro/big-data//workflows/book/badge.svg)](https://github.com/pnavaro/big-data/actions/)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mesfind/bigdata/master)
+[![JupyterBook](https://github.com/mesfind/bigdata//workflows/book/badge.svg)](https://github.com/mesfind/bigdata/actions/)
 
-- [Website](https://pnavaro.github.io/big-data) generated with [jupyterbook](https://jupyterbook.org).
-- [Website](https://pnavaro.github.io/big-data/quarto/intro.html) generated with [quarto](https://quarto.org).
+- [Website](https://mesfind.github.io/bigdata) generated with [jupyterbook](https://jupyterbook.org).
+- [Website](https://mesfind.github.io/bigdata/quarto/intro.html) generated with [quarto](https://quarto.org).
 
-The content of these notebooks are made thanks to these [references](https://pnavaro.github.io/big-data/intro.html).
+The content of these notebooks are made thanks to these [references](https://mesfind.github.io/bigdata/intro.html).
 
 ## Run Jupyter notebooks with docker
 
